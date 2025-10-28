@@ -36,17 +36,3 @@ Ensuite, installer dépendances contenues dans le fichier requirements.txt.
 ```
 pip install -r requirements.txt
 ```
-## Utilisation
-1. Placez vos fichiers PDF dans le dossier data/
-2. Lancez l'application Streamlit
-3. Posez vos questions
-* Entrez votre question dans la zone de texte.
-* Cliquez sur Get an answer.
-* Visualisez la réponse générée par l’IA ainsi que les sources.
-
-Voici un aperçu de l'application
-
-```
-streamlit run app.py
-```
-![Aperçu de l’application](apercu.png)
