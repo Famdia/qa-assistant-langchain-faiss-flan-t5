@@ -43,7 +43,7 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
-![](D:\Assistant_recherche_IA\pythonProject\apercu.png)
+![Aperçu de l’application](apercu.png)
 
 3. Posez vos questions
 * Entrez votre question dans la zone de texte.
