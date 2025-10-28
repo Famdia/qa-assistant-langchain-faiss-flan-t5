@@ -43,9 +43,10 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
-![](D:\Assistant_recherche_IA\pythonProject\apercu.png)
-
 3. Posez vos questions
 * Entrez votre question dans la zone de texte.
 * Cliquez sur Get an answer.
 * Visualisez la réponse générée par l’IA ainsi que les sources.
+
+## Aperçu de l'application
+![Aperçu de l’application](apercu.png)

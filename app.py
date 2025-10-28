@@ -8,7 +8,7 @@ st.title("AI Assistant for Scientific Research")
 st.write("I'm your AI Assistant, ready to help you with questions based on your papers.")
 
 # Champ pour poser une question
-question = st.text_area("Your question :", "") # Par exemple : Why are NoSQL databases ideal for data storage ?
+question = st.text_area("Your question :", "")
 
 if st.button("Get an answer") and question:
     with st.spinner("Please wait while I find your answer..."):
