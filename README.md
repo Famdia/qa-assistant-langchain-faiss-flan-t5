@@ -36,6 +36,7 @@ Ensuite, installer dépendances contenues dans le fichier requirements.txt.
 ```
 pip install -r requirements.txt
 ```
+<<<<<<< HEAD
 ## Utilisation
 1. Placez vos fichiers PDF dans le dossier data/
 2. Lancez l'application Streamlit
@@ -50,3 +51,5 @@ streamlit run app.py
 
 ## Aperçu de l'application
 ![Aperçu de l’application](apercu.png)
+=======
+>>>>>>> 2979302e0f10f3249da9e6de71a2f7f8d045977a
